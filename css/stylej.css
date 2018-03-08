@@ -1,0 +1,15 @@
+.title{
+    font-size:25px;
+}
+
+.box{
+color:white;
+font-size: 25px;
+margin-left:40px;
+margin-right:40px;
+background-color:orange;
+}
+
+.row{
+    display: flex;
+}
