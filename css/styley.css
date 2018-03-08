@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/*MAIN CONTENT*/
+
+section{
+
+}
+
+.blockText{
+
+}
+
+.blockText--color{
+  background-color: #E78E51;
+}
+
+.blockImg{
+
+}
+
+/*MAIN COMPONENT/ELEMENT*/
+
+.blockText-title{
+  text-transform: uppercase;
+}
+
+.blockText-text{
+
+}
