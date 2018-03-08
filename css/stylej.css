@@ -1,15 +1,40 @@
-.title{
-    font-size:25px;
+.title-box{
 }
 
-.box{
-color:white;
-font-size: 25px;
-margin-left:40px;
-margin-right:40px;
-background-color:orange;
+.right{
+    text-align:center;
+    color:white;
 }
 
-.row{
-    display: flex;
+.btn:hover {
+background-color: #515F67;
 }
+
+
+.nav {
+    background-color: #E78E51;
+    display: table;
+    padding-right: 50px;
+    padding-left: 50px;
+
+
+
+   /* padding-bottom:125px;
+    padding-right:100px; */
+}
+
+.btn {
+    flex-direction:column;
+    padding-top: 25px;
+    margin-right: 25px;
+}
+
+.formulaire{
+padding-top:20px;
+padding-bottom: 20px;
+background-color:#515F67;
+text-align: right;
+padding-right:30px;
+color:#E78E51
+}
+
