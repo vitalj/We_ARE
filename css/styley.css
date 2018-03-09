@@ -13,21 +13,25 @@ main{
 
 .main-section{
 	display: flex;
-	height: 180px;
+	height: 220px;
 	width: 100%;
 	margin: 0;
 }
 
+.blockText--borderTop{
+  border-top: 2px #515F67 solid;
+}
+
 .blockText{
 	width: 100%;
-/*	display: flex;
+/*display: flex;
 	flex-direction: column;*/
 	text-align: center;
-  border: 2px #515F67 solid;
+
 }
 
 .blockText-pourcentage{
-  width: 90%;
+  width: 85%;
   margin: auto;
 }
 
@@ -40,6 +44,20 @@ main{
 .blockImg{
     background-color: #515F67;
   	width: 330px;
+    border-top: 2px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blockImg-logo{
+  width: 100px;
+  height: 80px;
+}
+
+
+.blockImg--borderColor{
+
 }
 
 /*MAIN COMPONENT/ELEMENT*/
