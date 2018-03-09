@@ -13,7 +13,7 @@ main{
 
 .main-section{
 	display: flex;
-	height: 150px;
+	height: 180px;
 	width: 100%;
 	margin: 0;
 }
@@ -23,6 +23,12 @@ main{
 /*	display: flex;
 	flex-direction: column;*/
 	text-align: center;
+  border: 2px #515F67 solid;
+}
+
+.blockText-pourcentage{
+  width: 90%;
+  margin: auto;
 }
 
 .blockText--color{
@@ -32,8 +38,8 @@ main{
 }
 
 .blockImg{
-	background-color: lightblue;
-	width: 200px;
+    background-color: #515F67;
+  	width: 330px;
 }
 
 /*MAIN COMPONENT/ELEMENT*/
