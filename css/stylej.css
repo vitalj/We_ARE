@@ -1,40 +1,85 @@
-.title-box{
+* {
+    font-family:Tahoma, sans-serif
 }
 
-.right{
-    text-align:center;
-    color:white;
+.top {
+    background-color: #515F67;
+    padding-top:0.315cm;
+    padding-bottom:0.315cm;
+    text-align: right;
+}
+
+.form-control { /* TO DO txt orange */
+    margin-right: 0.16cm;
+}
+
+.logo {
+    font-size:40px;
+    background-color: #515F67;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    font-size:30px;
+    padding-top: 25px;
+    padding: bottom 25px;
+    text-align: center;
+}
+
+
+placeholder {
+color: #E78E51
+}
+
+.lg {
+    background-color: #515F67;
+    text-align:left;
+    opacity:0.7;
+    margin-right:1700px;
 }
 
 .btn:hover {
-background-color: #515F67;
+background-color: black;
 }
 
-
-.nav {
-    background-color: #E78E51;
-    display: table;
-    padding-right: 50px;
-    padding-left: 50px;
-
-
-
-   /* padding-bottom:125px;
-    padding-right:100px; */
+.head-color {
+    background: linear-gradient(to bottom right, #ffffcc 0%, #e78e51 100%);
 }
 
-.btn {
-    flex-direction:column;
-    padding-top: 25px;
-    margin-right: 25px;
+.logo-bottom{
+    color: white
+    font-size:30px;
 }
 
-.formulaire{
-padding-top:20px;
-padding-bottom: 20px;
-background-color:#515F67;
-text-align: right;
-padding-right:30px;
-color:#E78E51
+.end{
+    display:flex;
+    justify-content: space-between;
+    background: linear-gradient(to bottom right, #ffffcc 0%, #e78e51 100%);
+    vertical-align:middle;
 }
 
+.logo-bottom {
+    padding-left: 0.94cm;
+}
+
+.end-btn {
+    vertical-align:middle;
+}
+
+.client {
+    text-align: center;
+}
+
+.h2.contact{
+background-color:##515F67
+}
+.contact {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding-right: 15cm;
+    padding-left:15cm;
+}
