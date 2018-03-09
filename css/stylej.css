@@ -28,9 +28,6 @@
 }
 
 
-placeholder {
-color: #E78E51
-}
 
 .lg {
     background-color: #515F67;
@@ -40,7 +37,7 @@ color: #E78E51
 }
 
 .btn:hover {
-background-color: black;
+    background-color: black;
 }
 
 .head-color {
@@ -72,14 +69,14 @@ background-color: black;
 }
 
 .h2.contact{
-background-color:##515F67
+    background-color:##515F67
 }
 .contact {
     text-align: center;
 }
-
+/*
 p {
     text-align: center;
     padding-right: 15cm;
     padding-left:15cm;
-}
+}*/
